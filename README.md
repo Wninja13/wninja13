@@ -11,13 +11,14 @@ Habilidades: Python,SQL,Django,JavaScript,HTML y CSS
 - 📫 Cómo contactarme: german.weckesser@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wninja13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/german-weckesser//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wninja13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/german-weckesser//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Wninja13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wninja13)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Wninja13&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wninja13&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Wninja13)  
+![GitHub metrics](https://metrics.lecoq.io/Wninja13)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Wninja13)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Wninja13)  
+
 
