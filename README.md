@@ -17,8 +17,7 @@ Habilidades: Python,SQL,Django,JavaScript,HTML y CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wninja13&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Wninja13)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Wninja13)  
+
 
 
