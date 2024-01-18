@@ -1,6 +1,6 @@
 ### Hola 👋, Hola mi nombre es German!
 #### Abogado y analista de datos.
-![Abogado y analista de datos.](https://files.oaiusercontent.com/file-bCICX2ewtTPiQbyyYcTpqiUD?se=2024-01-18T04%3A11%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9dd9853d-6ad5-4848-93ce-306ef42e5e11.webp&sig=6iy05ysp46l2CpgvG4CcP/ewMVA5WTMrpQeI%2BOMDqZw%3D)
+![Abogado y analista de datos.](https://drive.google.com/file/d/16Nj-nx61zXQA05SiNWvYx2bQIVn862Bf/view?usp=sharing)
 
 Soy abogado graduado de la USAL, especializado en Derecho Administrativo Económico por la UCA. Con una amplia experiencia litigando en el sector privado y una valiosa trayectoria en el sector público, ahora busco desafíos en el ámbito tecnológico.
 
