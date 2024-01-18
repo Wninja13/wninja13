@@ -6,19 +6,19 @@
 </p>
 
 <p>
-  🔭 Actualmente, estoy canalizando mi meticulosidad y mi amor por el orden en la construcción de un repositorio de ejercicios de Python que desafía y afinan el intelecto: [Ejercicios Python](https://github.com/Wninja13/Ejercicios-python).
+  - 🔭 Actualmente, estoy canalizando mi meticulosidad y mi amor por el orden en la construcción de un repositorio de ejercicios de Python que desafía y afinan el intelecto: [Ejercicios Python](https://github.com/Wninja13/Ejercicios-python).
 </p>
 
 <p>
-  🌱 Con libros y recursos a mi lado, estoy aprendiendo a manejar las potentes herramientas del análisis de datos como numpy y pandas, y el elegante arte de la programación en R. Cada día es una nueva página escrita en este capítulo tecnológico de mi vida.
+  - 🌱 Con libros y recursos a mi lado, estoy aprendiendo a manejar las potentes herramientas del análisis de datos como numpy y pandas, y el elegante arte de la programación en R. Cada día es una nueva página escrita en este capítulo tecnológico de mi vida.
 </p>
 
 <p>
-  👨‍💻 Explora mis proyectos y testigos de mi odisea de aprendizaje aquí: [https://github.com/Wninja13](https://github.com/Wninja13).
+  - 👨‍💻 Explora mis proyectos y testigos de mi odisea de aprendizaje aquí: [https://github.com/Wninja13](https://github.com/Wninja13).
 </p>
 
 <p>
-  📫 Si deseas unirte a mi aventura o colaborar en algún proyecto, no dudes en enviar un mensaje a través de mi botella digital: **german.weckesser@gmail.com**.
+  - 📫 Si deseas unirte a mi aventura o colaborar en algún proyecto, no dudes en enviar un mensaje a través de mi botella digital: **german.weckesser@gmail.com**.
 </p>
 
 
