@@ -1,13 +1,25 @@
-<h1 align="center">Hola 👋, yo soy German Weckesser</h1>
-<h3 align="center">abogado apasionado. Con una amplia experiencia litigando en el sector privado y una valiosa trayectoria en el sector público, ahora busco desafíos en el ámbito tecnológico.</h3>
+<h1 align="center">👋 ¡Saludos! Soy Germán Weckesser</h1>
+<h3 align="center">🎓 Abogado | 🚀 Entusiasta de la Tecnología | 📊 Analista de Datos en Potencia</h3>
 
-- 🔭 Estoy trabajando en Crear un repositorio con ejercicios de logica de programación utilizando Python. [Ejercicios Python](https://github.com/Wninja13/Ejercicios-python)
+<p align="center">
+  Tras años de navegar los mares del derecho y la jurisprudencia, he zarpado hacia nuevos horizontes digitales. Desde la lógica legal hasta la lógica de programación, mi viaje ahora me lleva a sumergirme en el maravilloso mundo del código, donde busco descifrar los patrones ocultos en los datos como alguna vez lo hice con las leyes y los precedentes.
+</p>
 
-- 🌱 Estoy aprendiendo: **numpy, pandas y R.**
+<p align="center">
+  🔭 Actualmente, estoy canalizando mi meticulosidad y mi amor por el orden en la construcción de un repositorio de ejercicios de Python que desafía y afinan el intelecto: [Ejercicios Python](https://github.com/Wninja13/Ejercicios-python).
+</p>
 
-- 👨‍💻 Todos mis proyectos están en [https://github.com/Wninja13](https://github.com/Wninja13)
+<p align="center">
+  🌱 Con libros y recursos a mi lado, estoy aprendiendo a manejar las potentes herramientas del análisis de datos como numpy y pandas, y el elegante arte de la programación en R. Cada día es una nueva página escrita en este capítulo tecnológico de mi vida.
+</p>
 
-- 📫 ¿Cómo contactarme? **german.weckesser@gmail.com**
+<p align="center">
+  👨‍💻 Explora mis proyectos y testigos de mi odisea de aprendizaje aquí: [https://github.com/Wninja13](https://github.com/Wninja13).
+</p>
+
+<p align="center">
+  📫 Si deseas unirte a mi aventura o colaborar en algún proyecto, no dudes en enviar un mensaje a través de mi botella digital: **german.weckesser@gmail.com**.
+</p>
 
 <h3 align="left">Contactá conmigo:</h3>
 <p align="left">
